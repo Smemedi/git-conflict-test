@@ -1,5 +1,6 @@
 Line 1
 Line 2
 My change from the branch
+Someone else's change
 Line 4
 Line 5
